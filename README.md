@@ -1,5 +1,5 @@
 # Geometry-Escape
-A shoot'em up made in Java
+A runner made in Java
 
 ## Screenshot
 
